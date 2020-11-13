@@ -1,0 +1,6 @@
+
+- name: Create my user
+  user:
+    name: saul
+    shell: /bin/bash
+
